@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ignite Timer" src=".github/Preview.png" width="100%">
+  <img alt="Ignite Timer" src="src/assets/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
